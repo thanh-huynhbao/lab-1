@@ -1,0 +1,8 @@
+prefix=/home/isaacnewthanh/caktin_ws/install
+
+Name: beginner_ros
+Description: Description of beginner_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

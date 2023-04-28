@@ -1,0 +1,8 @@
+prefix=/home/isaacnewthanh/caktin_ws/devel
+
+Name: khue
+Description: Description of khue
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
